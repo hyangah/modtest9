@@ -1,5 +1,5 @@
-module github.com/hyangah/modtest9
+module github.com/hyangah/modtest9/v2
 
 go 1.12
 
-require rsc.io/quote v1.5.2
+require github.com/hyangah/modtest9 v1.0.0
